@@ -123,7 +123,7 @@ The HR department lacks visibility into:
 
 ## 🛠️ Tools & Technologies
 
-- **Python** — Pandas, Matplotlib, Seaborn
+- **Python** — Pandas
 - **MySQL** — Business queries, Window Functions, CTEs
 - **Power BI** — 3-page interactive dashboard, DAX measures
 - **Gamma AI** — Project presentation
@@ -148,7 +148,7 @@ The HR department lacks visibility into:
 - **Name:** Prabhat Kumar
 - **Role:** Junior Data Analyst
 - **Email:** kumarprabhat94317@gmail.com
-- **College:** Netaji Subhash Engineering College, Kolkata
+
 
 ---
 
