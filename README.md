@@ -137,8 +137,8 @@ The HR department lacks visibility into:
 | hr_attrition_EDA.ipynb | Python EDA notebook |
 | hr_attrition_analysis.sql | 16 SQL business queries |
 | hr_attrition_dashboard.pbix | Power BI dashboard |
-| HR_Attrition_Project_Document.pdf | Business questions PDF |
-| HR-Attrition-Analysis.pdf | Final presentation |
+| HR_Attrition_Project_question_final.pdf | Business questions PDF |
+| HR-Attrition-Analysis_Report.pdf | Final presentation |
 | WA_Fn-UseC_-HR-Employee-Attrition.csv | Dataset |
 
 ---
